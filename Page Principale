@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE>THIS IS NOT A WEBSITE 2</TITLE>
+  <META NAME="Generator" CONTENT="EditPlus">
+  <META NAME="Author" CONTENT="Christophe Chanton">
+  <META CHARSET="UTF-8">
+ </HEAD>
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:100px;
+    width:200px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+<body>
+
+<div id="header">
+<h1>STOP THAT, YOU'RE NOT SUPPOSED TO SEE THAT ! </h1>
+</div>
+
+<div id="nav">
+<ul>
+<A href="Page%202.html">
+<li>Ma passion</li>
+<A/>
+<A href="Page%203.html">
+<li>League of Legends</li>
+<A/>
+</ul> 
+</div>
+
+<div id="footer">
+DON'T CLICK !
+</div>
+</HTML>       
