@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE>THIS IS NOT A WEBSITE 2</TITLE>
+  <META NAME="Generator" CONTENT="EditPlus">
+  <META NAME="Author" CONTENT="Christophe Chanton">
+  <META CHARSET="UTF-8">
+ </HEAD>
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:700px;
+    width:200px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+<body>
+
+<div id="header">
+<h1>DON'T READ IT, THIS IS MY PERSONNAL LIFE !</h1>
+</div>
+
+<div id="nav">
+<ul>
+<li>Ma Passion</li>
+<A href="Page%203.html">
+<li>League of Legends</li>
+<A/>
+</ul> 
+</div>
+
+<div id="section">
+<h2>Ma Passion</h2>
+<center><img src="http://images.midilibre.fr/images/2015/07/06/lily-et-christophe-champions-de-france_1507881_667x333.jpg?v=1"><br>
+<p>
+Je pratique la danse depuis que j'ai l'age de 4ans. (WOW AMAZING).
+Cette annee avec ma partenaire nous avons ete sacre Champion de France de Boogie-Woogie 
+dans la plus haute categorie enfant, la categorie Junior.
+</p>
+<p>
+Grace a cela nous avons integres l'equipe de France de Danse, la FFD et suite a nos resultats durant les differentes Coupe du Monde, nous avons ete selectione pour participer et representer la France aux Championnats du Monde.
+Nous sommes arrive jusqu'en finale et avons termine avec un titre de 5ieme mondial.
+</p>
+</div>
+
+<div id="footer">
+<A href="Page%20Principale.html">
+GO BACK NOW !
+<A/>
+</div>
+</HTML>       
