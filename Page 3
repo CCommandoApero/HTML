@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE>THIS IS NOT A WEBSITE 2</TITLE>
+  <META NAME="Generator" CONTENT="EditPlus">
+  <META NAME="Author" CONTENT="Christophe Chanton">
+  <META CHARSET="UTF-8">
+ </HEAD>
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:450px;
+    width:200px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+<body>
+
+<div id="header">
+<h1>DON'T READ IT, THIS IS MY COMPUTER LIFE !</h1>
+</div>
+
+<div id="nav">
+<ul>
+<A href="Page%202.html">
+<li>Ma passion</li>
+<A/>
+<li>League of Legends</li>
+</ul> 
+</div>
+
+<div id="section">
+<h2>League of Legends</h2>
+<center> <img src="https://upload.wikimedia.org/wikipedia/fr/7/77/League_of_Legends_logo.png"><br>
+<p>
+Tu connais ce jeu ? Il est bien ! Meme qu'avec Enzo on est nul dessus.
+Et tellement qu'on est nul, on a cree la formation AOUH ! Et on tue des gens c'est rigolo !
+Mais apres les gens contre nous ils pleurent, alors tellement qu'on est triste pour eux eh ben on rigole lol.
+</p>
+<p>
+Mdr.
+Lol.
+Mdr.
+Lol.
+</p>
+</div>
+
+<div id="footer">
+<A href="Page%20Principale.html">
+GO BACK NOW !
+<A/>
+</div>
+</HTML>       
